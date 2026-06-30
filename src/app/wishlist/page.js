@@ -14,16 +14,6 @@ export default function WishlistPage() {
 
         {/* CONTENT */}
         <WishlistContent />
-
-        {/* OPTIONAL CTA (good UX fallback) */}
-        <div className="mt-12 text-center">
-          <Link
-            href="/products"
-            className="inline-block px-6 py-3 rounded-xl bg-black text-white"
-          >
-            Continue Shopping
-          </Link>
-        </div>
       </section>
     </main>
   );
