@@ -1,5 +1,4 @@
 import WishlistContent from "@/components/wishlist/WishlistContent";
-import Link from "next/link";
 
 export default function WishlistPage() {
   return (
