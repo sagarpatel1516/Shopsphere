@@ -137,35 +137,45 @@ This application supports both customer and administrator workflows, providing a
 
 ### 🏠 Home Page
 
-<img width="1346" height="646" alt="Home Page" src="https://github.com/user-attachments/assets/8815ac2c-5d2e-4013-a527-d817d5afc247" />
+
+<img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/98c9a666-de02-4a8f-bf11-13a20c03e946" />
 
 ### 🛍️ Product Listing
 
-<img width="1347" height="641" alt="Products" src="https://github.com/user-attachments/assets/b253284f-637a-4a86-942b-ef2d1f7582ce" />
+
+<img width="862" height="644" alt="image" src="https://github.com/user-attachments/assets/b4746865-6b06-41f1-a882-00bbd6fc9114" />
 
 ### 📄 Product Details
 
-<img width="1348" height="637" alt="Product Details" src="https://github.com/user-attachments/assets/41ad8f3b-ae4a-41bf-9e57-59de9fca9d9d" />
+
+<img width="698" height="645" alt="image" src="https://github.com/user-attachments/assets/1d47b27a-1fd2-4206-8330-4108cfaf245a" />
 
 ### ❤️ Wishlist
 
-<img width="1345" height="640" alt="Wishlist" src="https://github.com/user-attachments/assets/94151de0-e131-4031-9b01-e245b6df0225" />
+
+<img width="1008" height="628" alt="image" src="https://github.com/user-attachments/assets/0fdbf58b-21ed-4816-b9e2-aeabc9f692e0" />
 
 ### 🛒 Shopping Cart
 
-<img width="1341" height="623" alt="Shopping Cart" src="https://github.com/user-attachments/assets/f1dd0b91-e400-47c5-a016-10cdc34e5336" />
+
+<img width="1186" height="566" alt="image" src="https://github.com/user-attachments/assets/7f556318-c80c-46c6-8c33-834e648061f5" />
 
 ### 💳 Checkout
 
-<img width="1337" height="639" alt="Checkout" src="https://github.com/user-attachments/assets/08cd8c57-1e77-4982-b4b7-53c6ce22b2e1" />
+
+<img width="740" height="554" alt="image" src="https://github.com/user-attachments/assets/4bf26caa-62e5-47d8-99b2-8f25a8944a57" />
 
 ### 👤 User Dashboard
 
-<img width="1147" height="641" alt="User Dashboard" src="https://github.com/user-attachments/assets/c0b0bffa-9988-4f38-912a-422ea3aa24a3" />
+
+<img width="668" height="606" alt="image" src="https://github.com/user-attachments/assets/fc30c9f2-a547-46da-b4b0-965df73b8bee" />
 
 ### 📊 Admin Dashboard
 
-<img width="892" height="646" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/3cc431f1-9959-44b2-9417-6a22d7a3d2b0" />
+
+<img width="683" height="529" alt="image" src="https://github.com/user-attachments/assets/59b57cda-e06e-4a1a-b236-0117ae6d7e2f" />
+
+<img width="725" height="559" alt="image" src="https://github.com/user-attachments/assets/1eb21082-ae82-45f1-b862-8e7f9d644dce" />
 
 ---
 
